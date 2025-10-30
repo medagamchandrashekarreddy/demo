@@ -1,5 +1,5 @@
 # demo
 This is my first git repositary.
 <br>
-auhthor- chandrareddy.
+auhthor- chandrareddy.(Vishnu institute)
 
